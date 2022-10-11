@@ -77,5 +77,5 @@ input.onButtonPressed(Button.AB, function () {
 })
 input.onButtonPressed(Button.B, function () {
     basic.pause(1000)
-    basic.showString("“TRYKK A")
+    basic.showString(""TRYKK A")
 })
